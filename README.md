@@ -1,0 +1,1 @@
+# :rocket: This is demo project for aws deployment :rocket:
